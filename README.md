@@ -134,6 +134,7 @@ $ sudo luarocks install lua-term
 $ sudo luarocks install serpent
 $ sudo luarocks install lua-cjson
 $ sudo luarocks install Lua-cURL
+$ luarocks remove lua-cjson
 $ luarocks install lua-cjson 2.1.0-1
 $ luarocks install lua-resty-socket
 $ cd ..
